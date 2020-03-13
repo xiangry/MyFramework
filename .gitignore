@@ -1,0 +1,46 @@
+﻿xlua-framework.sln
+xlua-framework.csproj
+xlua-framework.Editor.csproj
+Assets/LuaScripts/NppGTags.cfg.meta
+Assets/LuaScripts/NppGTags.cfg
+Assets/LuaScripts/GTAGS.meta
+Assets/LuaScripts/GTAGS
+Assets/LuaScripts/GRTAGS.meta
+Assets/LuaScripts/GRTAGS
+Assets/LuaScripts/GPATH.meta
+Assets/LuaScripts/GPATH
+# Assets/StreamingAssets/AssetBundles/
+# Assets/StreamingAssets/AssetBundles.meta
+/AssetBundles
+!/Asset/Editor/AssetBundle/
+*.apk
+Assets/AssetsPackage/Lua/
+# Assets/Scripts/XLua/Gen/
+# Assets/Scripts/XLua/Gen.meta
+Assets/AssetsPackage/Lua.meta
+*.csproj
+*.sln
+Library/
+Temp/
+.vs/
+Assets/Plugins/Android/
+Assets/Plugins/Android.meta
+obj/
+LuaProj/.idea/workspace.xml
+# client/LuaProj/API/
+~$ua框架设计文档.docx
+\Users\zxy\Library\Application Support\chivas\xluaframework\AssetBundles\app_version.bytes
+\Users\zxy\Library\Application Support\chivas\xluaframework\AssetBundles\AssetBundles
+\Users\zxy\Library\Application Support\chivas\xluaframework\AssetBundles\res_version.bytes
+\Users\zxy\Library\Application Support\chivas\xluaframework\AssetBundles\app_version.bytes
+\Users\zxy\Library\Application Support\chivas\xluaframework\AssetBundles\AssetBundles
+\Users\zxy\Library\Application Support\chivas\xluaframework\AssetBundles\res_version.bytes
+\Users\zxy\Library\Application Support\chivas\xluaframework\AssetBundles\app_version.bytes
+\Users\zxy\Library\Application Support\chivas\xluaframework\AssetBundles\AssetBundles
+\Users\zxy\Library\Application Support\chivas\xluaframework\AssetBundles\res_version.bytes
+\Users\zxy\Library\Application Support\chivas\xluaframework\AssetBundles\app_version.bytes
+\Users\zxy\Library\Application Support\chivas\xluaframework\AssetBundles\AssetBundles
+\Users\zxy\Library\Application Support\chivas\xluaframework\AssetBundles\res_version.bytes
+.idea/
+xlua-framework-ugui.sln.DotSettings.user
+user.keystore
