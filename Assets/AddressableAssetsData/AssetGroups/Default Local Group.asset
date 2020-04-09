@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 67d69d7867f9bbb48bef85ea4075e113
+  m_SerializeEntries:
+  - m_GUID: 69a815dffd93d5f4693628f1bfbb9e62
+    m_Address: Assets/AssetsPackage/ui/prefabs/uidownload.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_mainAssetType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_MainAsset: {fileID: 4345202341324271062, guid: 69a815dffd93d5f4693628f1bfbb9e62,
+      type: 3}
+    m_TargetAsset: {fileID: 4345202341324271062, guid: 69a815dffd93d5f4693628f1bfbb9e62,
+      type: 3}
+  - m_GUID: e807aec919d977b42b872527c798d7e7
+    m_Address: Assets/AssetsPackage/ui/prefabs/uiloading.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_mainAssetType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+    m_MainAsset: {fileID: 8413605681929450451, guid: e807aec919d977b42b872527c798d7e7,
+      type: 3}
+    m_TargetAsset: {fileID: 8413605681929450451, guid: e807aec919d977b42b872527c798d7e7,
+      type: 3}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: d86ca9cfb1421714ea59389e239193f5, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 1d44f0ddf9000094ab163edd4c255a61, type: 2}
+    - {fileID: 11400000, guid: 42088a10fc657e64292586be5fc04e1c, type: 2}
